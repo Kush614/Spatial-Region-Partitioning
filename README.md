@@ -9,6 +9,11 @@ The PRRP_version.ipynb file implements the P-Regionalization through Recursive P
 ## PRRP-I 
 The PRRP-I_version.ipynb file implements the improved version of the algorithm (PRRP-I). It modifies the PRRP algorithm by introducing cardinality constraints for each region. Run this notebook to compare the performance of the improved algorithm with the original.
 
+## Results
+
+![image](https://github.com/user-attachments/assets/7c97fdfb-7ad2-4d20-9c5d-992a7b6bf632)
+
+
 ## Repository Structure
 
 The repository consists of the following files and directories:
@@ -31,9 +36,5 @@ To install the required dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
-## Results
-
-![image](https://github.com/user-attachments/assets/22111854-2cc1-4594-ba92-c8d197f32e95)
 
 
